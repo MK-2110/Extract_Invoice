@@ -2,3 +2,4 @@ pdfplumber
 pandas
 openpyxl
 streamlit
+altair<5.0.0
